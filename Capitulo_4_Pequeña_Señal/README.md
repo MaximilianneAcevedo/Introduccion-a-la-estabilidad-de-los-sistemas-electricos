@@ -5,7 +5,7 @@ Esta carpeta contiene recursos computacionales complementarios asociados con el 
 ## Contenido
 
 - `autovalores_autovectores.py`: script orientado al cálculo e interpretación de autovalores, autovectores y propiedades dinámicas de sistemas lineales.
-- `estabilidad_pequena_senal.py`: script orientado al análisis de estabilidad de pequeña señal y respuesta dinámica de modelos linealizados.
+- `estabilidad_pequeña_señal.py`: script orientado al análisis de estabilidad de pequeña señal y respuesta dinámica de modelos linealizados.
 
 ## Conceptos abordados
 
@@ -25,4 +25,4 @@ Desde esta carpeta, ejecutar:
 
 ```bash
 python autovalores_autovectores.py
-python estabilidad_pequena_senal.py
+python estabilidad_pequeña_señal.py
