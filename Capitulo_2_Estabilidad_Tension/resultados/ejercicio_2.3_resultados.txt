@@ -1,0 +1,23 @@
+# Ejercicio 2.3 — Estabilidad de tensión
+
+Condiciones de entrada:  
+Factor de potencia = 0.850000  
+Sentido del factor de potencia = Adelanto  
+Reactancia inductiva XL = 0.500000 p.u.  
+Dato conocido = Potencia activa demandada  
+Potencia activa demandada P = 1.500000 p.u.
+
+Resultados obtenidos:  
+Potencia reactiva demandada Q = -0.929617 p.u.  
+Solución de tensión V2+ = 1.164077 p.u.  
+Solución de tensión V2- = 0.757985 p.u.  
+Potencia activa máxima Pmax = 1.796215 p.u.  
+Potencia reactiva máxima Qmax = -1.113194 p.u.  
+Voltaje crítico Vcrítico = 1.027909 p.u.
+
+Interpretación:  
+Para una carga con factor de potencia de 0.85 en adelanto y una potencia activa demandada de 1.5 p.u., el sistema presenta dos soluciones matemáticas de tensión en la barra 2. La solución V2+ = 1.164077 p.u. corresponde al punto de operación de mayor tensión y representa la solución físicamente más adecuada para operación normal.
+
+El signo negativo de la potencia reactiva Q = -0.929617 p.u. indica que la carga opera con factor de potencia en adelanto, es decir, con comportamiento capacitivo desde el punto de vista del intercambio de potencia reactiva.
+
+El valor de Pmax = 1.796215 p.u. indica el límite estático de transmisión de potencia activa para las condiciones dadas. Como la potencia demandada P = 1.500000 p.u. es menor que Pmax, el sistema opera dentro del margen de estabilidad estática de tensión. El voltaje crítico asociado es Vcrítico = 1.027909 p.u.; este valor representa la condición límite antes de aproximarse a la pérdida de estabilidad de tensión.
