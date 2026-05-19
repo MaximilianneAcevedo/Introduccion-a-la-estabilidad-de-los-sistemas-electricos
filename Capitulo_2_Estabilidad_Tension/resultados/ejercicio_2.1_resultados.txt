@@ -1,9 +1,11 @@
 Ejercicio 2.1 — Estabilidad de tensión
 
-Condiciones de entrada:
-Factor de potencia = 0.950000
-Sentido del factor de potencia = Atraso
-Potencia activa demandada P = 0.600000 p.u.
+Condiciones de entrada:  
+Factor de potencia = 0.550000  
+Sentido del factor de potencia = Atraso  
+Reactancia inductiva XL = 0.500000 p.u.  
+Dato conocido = Potencia activa demandada  
+Potencia activa demandada P = 0.000000 p.u.
 
 Resultados obtenidos:
 Potencia reactiva demandada Q = 0.197210 p.u.
