@@ -1,0 +1,19 @@
+Ejercicio 2.1 — Estabilidad de tensión
+
+Condiciones de entrada:
+Factor de potencia = 0.950000
+Sentido del factor de potencia = Atraso
+Potencia activa demandada P = 0.600000 p.u.
+
+Resultados obtenidos:
+Potencia reactiva demandada Q = 0.197210 p.u.
+Solución de tensión V2+ = 0.805714 p.u.
+Solución de tensión V2- = 0.391938 p.u.
+Potencia activa máxima Pmax = 0.723947 p.u.
+Potencia reactiva máxima Qmax = 0.237950 p.u.
+Voltaje crítico Vcrítico = 0.617272 p.u.
+
+Interpretación:
+Para una carga con factor de potencia de 0.95 en atraso y una potencia activa demandada de 0.6 p.u., el sistema presenta dos soluciones matemáticas de tensión en la barra 2. La solución V2+ = 0.805714 p.u. corresponde al punto de operación de mayor tensión y, por tanto, representa la solución físicamente más adecuada para operación normal.  
+
+El valor de Pmax = 0.723947 p.u. indica el límite estático de transmisión de potencia activa para las condiciones dadas. Como la potencia demandada P = 0.600000 p.u. es menor que Pmax, el sistema opera dentro del margen de estabilidad estática de tensión. El voltaje crítico asociado es Vcrítico = 0.617272 p.u.; por debajo de este valor, el sistema se aproxima a una condición de pérdida de estabilidad de tensión.
