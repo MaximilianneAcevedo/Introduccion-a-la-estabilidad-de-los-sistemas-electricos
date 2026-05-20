@@ -10,15 +10,15 @@ El propósito de este repositorio es complementar el desarrollo conceptual y ana
 
 Los códigos incluidos permiten apoyar el aprendizaje de temas como:
 
-- estabilidad de tensión;
-- curvas PV;
-- límites estáticos de transmisión;
-- estabilidad transitoria de primera oscilación;
-- criterio de áreas iguales;
-- ángulo crítico y tiempo crítico de despeje;
-- autovalores y autovectores;
-- estabilidad de pequeña señal;
-- factores de amortiguamiento;
-- respuesta dinámica de modelos linealizados.
+- Estabilidad de tensión;
+- Curvas PV;
+- Límites estáticos de transmisión;
+- Estabilidad transitoria de primera oscilación;
+- Criterio de áreas iguales;
+- Ángulo crítico y tiempo crítico de despeje;
+- Autovalores y autovectores;
+- Estabilidad de pequeña señal;
+- Factores de amortiguamiento;
+- Respuesta dinámica de modelos linealizados.
 
 Estos recursos no sustituyen el estudio conceptual presentado en el libro, sino que buscan facilitar la verificación de resultados, la visualización de fenómenos dinámicos y el aprendizaje práctico mediante simulaciones sencillas.
